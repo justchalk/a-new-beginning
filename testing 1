@@ -1,0 +1,8 @@
+#creating a circle area calulator in python
+
+diameter = input('Diameter: ')
+
+
+
+
+
